@@ -23,10 +23,9 @@ Actualmente no estoy trabajando en ningún proyecto, pero estoy abierto a colabo
 ---
 
 ### 📫 Contacto  
-Déjame tu mensaje o sígueme en plataformas profesionales:  
-- Placeholder para LinkedIn  
-- Placeholder para Twitter  
-- Placeholder para Email  
+Déjame tu mensaje o sígueme en plataformas profesionales:   
+- @ShaielMp  
+- shaielmp0@gmail.com 
 
 ---
 
