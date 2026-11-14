@@ -1,36 +1,30 @@
-# 💻 Shaiel | Desarrollador Web Junior  
+# Shaiel · Desarrollador web
 
-### 👨‍💻 Acerca de mí  
-¡Hola! Soy Shaiel, desarrollador web junior con un interés apasionado por la programación, los videojuegos y el deporte. Siempre estoy buscando aprender y mejorar mis habilidades.  
+Desarrollador web junior. Construyo aplicaciones completas, desde el modelo de datos hasta la interfaz, y me interesa especialmente el comercio electrónico.
 
----
+## Tecnologías
 
-### 🚀 Habilidades  
-- **Lenguajes:** Java, PHP, JavaScript  
-- **Frameworks & Estilos:** TailwindCSS  
-- **Intereses:** Desarrollo de páginas web, especialmente **ecommerce**  
+| Área | Herramientas |
+| --- | --- |
+| Backend | PHP · Java · Python (Django, Django REST Framework) |
+| Frontend | JavaScript · TypeScript · React · Tailwind CSS |
+| Datos | PostgreSQL |
+| Entorno | Git · Docker · GitHub Actions |
 
----
+## Proyectos
 
-### 💼 Proyectos Destacados  
-- **[Boardbyte](#)**: Una tienda de juegos de mesa creada con PHP. Este ha sido mi proyecto favorito, ya que combinó diseño y funcionalidad en un sector que me apasiona.  
+**AfterJourney** · en desarrollo  
+Tracker de anime personal. API REST con Django y PostgreSQL, SPA en React y TypeScript con cliente tipado desde OpenAPI, y despliegue con Docker Compose y Caddy.
 
----
+**[Portfolio](https://github.com/ShaielMP/Porfolio)**  
+Mi web personal.
 
-### 💡 Colaboración  
-Actualmente no estoy trabajando en ningún proyecto, pero estoy abierto a colaborar en ideas interesantes y proyectos de código abierto. ¡Me encantan las críticas constructivas y las oportunidades para mejorar como programador!  
+## Ahora mismo
 
----
+- Desarrollando AfterJourney para profundizar en diseño de bases de datos, seguridad web y arquitectura de backend.
+- Abierto a colaborar en proyectos de código abierto y a recibir revisiones de mi código.
 
-### 📫 Contacto  
-Déjame tu mensaje o sígueme en plataformas profesionales:   
-- @ShaielMp  
-- shaielmp0@gmail.com 
+## Contacto
 
----
-
-### ✨ Inspiración  
-*"Nunca dejes de aprender, porque la vida nunca deja de enseñar."*  
-
----  
-
+- Correo: shaielmp0@gmail.com
+- GitHub: [@ShaielMP](https://github.com/ShaielMP)
